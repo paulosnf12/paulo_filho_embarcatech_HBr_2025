@@ -1,12 +1,10 @@
 # Projetos de Sistemas Embarcados - EmbarcaTech 2025
 
-Autor: **(insira seu nome)**
+Autor: Paulo Santos do Nascimento Filho
 
 Curso: Residência Tecnológica em Sistemas Embarcados
 
-Instituição: EmbarcaTech - HBr
-
-Campinas, março de 2025
+Instituição: EmbarcaTech - HBr - Campinas
 
 ---
 
@@ -18,6 +16,10 @@ Cada projeto tem sua própria pasta, contendo o código-fonte, documentação e 
 
 ---
 
-## O que fazer com este arquivo
+## Projetos
 
-Ao fazer o *fork* do repositório, o aluno está livre para modificar este arquivo como quiser dentro do seu próprio *fork*.
+---
+
+## Licença
+
+--
