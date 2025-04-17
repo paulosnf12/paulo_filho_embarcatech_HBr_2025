@@ -1,1 +1,1 @@
-## Pasta para organização dos projetos desenvolvidos durante a residência.
+Projetos desenvolvidos durante a residência do embarcatech.
