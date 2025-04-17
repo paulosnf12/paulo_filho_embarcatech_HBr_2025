@@ -1,0 +1,5 @@
+# MCU Temperature Monitor
+Este projeto realiza a leitura da temperatura interna do microcontrolador RP2040, utilizando o conversor analógico-digital (ADC) e convertendo o valor para graus Celsius.
+
+## Objetivo
+Criar um programa em linguagem C que lê a temperatura interna da MCU RP2040 através do ADC integrado e converte esse valor para uma leitura compreensível em graus Celsius (°C).
