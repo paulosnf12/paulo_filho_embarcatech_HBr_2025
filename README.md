@@ -18,13 +18,13 @@ Cada projeto tem sua própria pasta, contendo o código-fonte, documentação e 
 
 ## Projetos
 
--Countdown_event_tracker;
+Countdown_event_tracker;
 
--Joystick_analog_read;
+Joystick_analog_read;
 
--Mcu_temperature_monitor;
+Mcu_temperature_monitor;
 
--Pomodoro_timer_wifi;
+Pomodoro_timer_wifi;
 
 
 ---
