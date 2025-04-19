@@ -1,1 +1,1 @@
-**Projetos desenvolvidos durante a residência do embarcatech.**
+## Projetos desenvolvidos durante a fase residencial do embarcatech.
