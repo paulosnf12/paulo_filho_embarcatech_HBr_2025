@@ -18,8 +18,13 @@ Cada projeto tem sua própria pasta, contendo o código-fonte, documentação e 
 
 ## Projetos
 
+countdown_event_tracker
+joystick_analog_read
+mcu_temperature_monitor
+pomodoro_timer_wifi
+
 ---
 
 ## Licença
 
---
+MIT License ou GPL-3.0
