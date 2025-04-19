@@ -16,7 +16,7 @@ Cada projeto tem sua própria pasta, contendo o código-fonte, documentação e 
 
 ---
 
-## Projetos atuais
+## Projetos Atuais
 
 Countdown_event_tracker;
 
